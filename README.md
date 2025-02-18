@@ -37,3 +37,9 @@ Enter Rate of interest:
 Enter Time period:
 3
 Simple Interest is: 150.00
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your pull request is well-documented, and all tests pass.
+
+## License
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
