@@ -7,7 +7,7 @@ SI = (P * R * T) / 100
 Where:
 - **P** = Principal amount
 - **R** = Rate of interest (annual)
-- **T** = Time period (in years)
+- **T** = Time period ( in years)
 
 ## Features
 
